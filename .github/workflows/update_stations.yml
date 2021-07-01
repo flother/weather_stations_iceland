@@ -1,0 +1,41 @@
+name: Update weather stations
+on:
+  schedule:
+    - cron: "0 22 * * 0"
+jobs:
+  update-stations:
+    runs-on: "ubuntu-20.04"
+    steps:
+      - uses: actions/checkout@v2
+      - name: "Set up Python 3.7"
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.7"
+      - name: Install GDAL
+        run: sudo apt-get install gdal-bin
+      - name: Install Poetry
+        uses: abatilo/actions-poetry@v2.0.0
+        with:
+          poetry-version: 1.0
+      - name: Install dependencies
+        run: poetry install
+      - name: Download latest stations
+        run: |
+          cp stations.csv stations-old.csv
+          poetry run scrapy runspider src/weather_stations_iceland.py -O stations.csv
+      - name: Convert to GeoJSON
+        run: |
+          ogr2ogr stations.geojson stations.csv -overwrite -oo X_POSSIBLE_NAMES=longitude -oo Y_POSSIBLE_NAMES=latitude -oo KEEP_GEOM_COLUMNS=NO
+      - name: Commit changes
+        run: |
+          git add stations.csv
+          git add stations.geojson
+          git config --global user.email "matt.riggott@gmail.com"
+          git config --global user.name "Matt Riggott"
+          poetry run csv-diff stations-old.csv stations.csv --key=station_number --singular=station --singular=stations > message.txt
+          git commit -F message.txt
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

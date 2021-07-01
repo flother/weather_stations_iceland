@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "weather_stations_iceland"
+version = "0.1.0"
+description = "Weather stations of Iceland"
+authors = ["Matt Riggott <matt.riggott@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+csv-diff = "^1.1"
+Scrapy = "^2.5.0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
