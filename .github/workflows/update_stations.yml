@@ -1,7 +1,5 @@
 name: Update weather stations
 on:
-  schedule:
-    - cron: "0 22 * * 0"
   workflow_dispatch:
 jobs:
   update-stations:
