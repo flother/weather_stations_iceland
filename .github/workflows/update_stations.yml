@@ -17,7 +17,7 @@ jobs:
       - name: Download latest stations
         run: |
           cp stations.csv stations-old.csv
-          poetry run scrapy runspider src/weather_stations_iceland.py -O stations.csv
+          scrapy runspider weather_stations_iceland.py -O stations.csv
       - name: Convert to GeoJSON
         run: |
           ogr2ogr stations.geojson stations.csv -overwrite -oo X_POSSIBLE_NAMES=longitude -oo Y_POSSIBLE_NAMES=latitude -oo KEEP_GEOM_COLUMNS=NO
@@ -27,7 +27,7 @@ jobs:
           git add stations.geojson
           git config --global user.email "matt.riggott@gmail.com"
           git config --global user.name "Matt Riggott"
-          poetry run csv-diff stations-old.csv stations.csv --key=station_number --singular=station --singular=stations > message.txt
+          csv-diff stations-old.csv stations.csv --key=station_number --singular=station --singular=stations > message.txt
           git commit -F message.txt
       - name: Push changes
         uses: ad-m/github-push-action@master
