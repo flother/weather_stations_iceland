@@ -12,12 +12,8 @@ jobs:
           python-version: "3.7"
       - name: Install GDAL
         run: sudo apt-get install gdal-bin
-      - name: Install Poetry
-        uses: abatilo/actions-poetry@v2.1.2
-        with:
-          poetry-version: 1.0
       - name: Install dependencies
-        run: poetry install
+        run: pip install -r requirements.txt
       - name: Download latest stations
         run: |
           cp stations.csv stations-old.csv
