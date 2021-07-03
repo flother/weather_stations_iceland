@@ -20,7 +20,8 @@ jobs:
           scrapy runspider weather_stations_iceland.py -O stations.csv
       - name: Convert to GeoJSON
         run: |
-          ogr2ogr stations.geojson stations.csv -overwrite -oo X_POSSIBLE_NAMES=longitude -oo Y_POSSIBLE_NAMES=latitude -oo KEEP_GEOM_COLUMNS=NO
+          rm stations.geojson
+          ogr2ogr stations.geojson stations.csv -oo X_POSSIBLE_NAMES=longitude -oo Y_POSSIBLE_NAMES=latitude -oo KEEP_GEOM_COLUMNS=NO
       - name: Commit changes
         run: |
           git add stations.csv
