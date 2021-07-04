@@ -1,4 +1,5 @@
 __pycache__/
 .python-version
 stations-old.csv
+stations-new.csv
 message.txt
