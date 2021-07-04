@@ -1,5 +1,7 @@
 name: Update list of weather stations
 on:
+  schedule:
+    - cron: "3 2 * * 1"
   workflow_dispatch:
 jobs:
   scrape-stations:
