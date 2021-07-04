@@ -28,7 +28,8 @@ jobs:
           git add stations.geojson
           git config --global user.email "matt.riggott@gmail.com"
           git config --global user.name "Matt Riggott"
-          csv-diff stations-old.csv stations.csv --key=station_number --singular=station --plural=stations > message.txt
+          echo -e 'Update weather stations data\n\n' > message.txt
+          csv-diff stations-old.csv stations.csv --key=station_number --singular=station --plural=stations >> message.txt
           git commit -F message.txt
       - name: Push changes
         uses: ad-m/github-push-action@master
