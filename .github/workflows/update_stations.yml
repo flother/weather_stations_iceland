@@ -1,8 +1,9 @@
-name: Update weather stations
+name: Update list of weather stations
 on:
   workflow_dispatch:
 jobs:
-  update-stations:
+  scrape-stations:
+    name: Scrape weather stations
     runs-on: "ubuntu-20.04"
     steps:
       - uses: actions/checkout@v2
@@ -10,15 +11,15 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: "3.7"
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
       - name: Install GDAL
         run: sudo apt-get install gdal-bin
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-      - name: Download latest stations
+      - name: Run scraper
         run: |
           cp stations.csv stations-old.csv
           scrapy runspider weather_stations_iceland.py -O stations.csv
-      - name: Convert to GeoJSON
+      - name: Convert stations CSV to GeoJSON
         run: |
           rm stations.geojson
           ogr2ogr stations.geojson stations.csv -oo X_POSSIBLE_NAMES=longitude -oo Y_POSSIBLE_NAMES=latitude -oo KEEP_GEOM_COLUMNS=NO
