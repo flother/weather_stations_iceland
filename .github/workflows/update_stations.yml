@@ -23,8 +23,8 @@ jobs:
       - name: Run scraper
         run: |
           cp stations.csv stations-old.csv
-          scrapy runspider weather_stations_iceland.py -O stations_new.csv
-          ./xsv sort stations_new.csv --select station_number --numeric --output stations.csv
+          scrapy runspider weather_stations_iceland.py -O stations-new.csv
+          ./xsv sort stations-new.csv --select station_number --numeric --output stations.csv
       - name: Convert stations CSV to GeoJSON
         run: |
           rm stations.geojson
