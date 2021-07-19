@@ -37,7 +37,7 @@ jobs:
           git config --global user.name "Matt Riggott"
           echo -e 'Update weather stations data\n\n' > message.txt
           csv-diff stations-old.csv stations.csv --key=station_number --singular=station --plural=stations >> message.txt
-          git diff-index --quiet HEAD || git commit -F message.txt
+          git diff-index --quiet HEAD -- stations.csv stations.geojson || git commit -F message.txt
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
