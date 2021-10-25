@@ -88,7 +88,6 @@ Möðruvellir,Automated observational station,3463,4167,modru,North East,-18.251
 Akureyri - Krossanesbraut,Automated observational station,3471,4137,akurk,North East,-18.1113,65.6961,31.0,2005,Veðurstofa Íslands
 Vaðlaheiði,Automated observational station,3474,4163,vadla,North East,-18.0021,65.7483,580.0,1999,Veðurstofa Íslands - Ofanflóð
 Végeirsstaðir í Fnjóskadal,Automated observational station,3477,4141,vegei,North East,-17.8857,65.817,120.0,2001,Veðurstofa Íslands
-Gæsafjöll,Automated observational station,3490,4971,gaesa,North East,-17.0035,65.7873,390.0,2010,Landsnet
 Staðarhóll,Automated observational station,3591,4069,sholl,North East,-17.3446,65.821,40.0,2012,Veðurstofa Íslands
 Rauðhálsar,Automated observational station,3596,4977,raudh,North East,-17.2015,65.856,390.0,2015,Landsnet
 Ólafsfjörður,Automated observational station,3658,4155,olfjo,North East,-18.6656,66.0739,5.0,1997,Veðurstofa Íslands - Ofanflóð
@@ -202,7 +201,7 @@ Blikdalsá,Automated observational station,31577,-99,blikd,Faxaflói,-21.8329,64
 Tíðaskarð,Automated observational station,31578,-99,tidas,Faxaflói,-21.812,64.287,65.0,2020,Vegagerðin
 Kjalarnes,Automated observational station,31579,4848,kjaln,Faxaflói,-21.7667,64.2106,10.0,1998,Vegagerðin
 Mosfellsheiði,Automated observational station,31591,4918,moshe,Faxaflói,-21.3448,64.214,270.0,2012,Vegagerðin
-Gjábakki,Automated observational station,31599,31599,gjabk,South,-21.023,64.2481,132.0,2012,Vegagerðin
+Gjábakki,Automated observational station,31599,-99,gjabk,South,-21.023,64.2481,132.0,2012,Vegagerðin
 Reykjanesviti,Automated observational station,31640,-99,rviti,Faxaflói,-22.7043,63.8156,20.0,2021,Vegagerðin
 Hafnarfjall,Automated observational station,31674,4832,hfnfj,Faxaflói,-21.9603,64.4755,25.0,1995,Vegagerðin
 Hraunsmúli,Automated observational station,31840,4808,hramu,Faxaflói,-23.1894,64.8221,10.0,1999,Vegagerðin
@@ -220,7 +219,7 @@ Laxárdalsheiði,Automated observational station,32190,4851,laxhe,Breiðafjörð
 Kleifaheiði,Automated observational station,32224,4803,klehe,Breiðafjörður,-23.7211,65.5172,400.0,1996,Vegagerðin
 Klettsháls,Automated observational station,32355,4823,klett,Breiðafjörður,-22.6088,65.655,330.0,1999,Vegagerðin
 Hjallaháls,Automated observational station,32365,4907,hjall,Breiðafjörður,-22.2461,65.564,305.0,2012,Vegagerðin
-Gillastaðamelar,Automated observational station,32372,32372,gilla,Breiðafjörður,-22.0234,65.5277,72.0,2009,Vegagerðin
+Gillastaðamelar,Automated observational station,32372,-99,gilla,Breiðafjörður,-22.0234,65.5277,72.0,2009,Vegagerðin
 Þröskuldar,Automated observational station,32377,4916,thros,Breiðafjörður,-21.833,65.5524,370.0,2009,Vegagerðin
 Ennisháls,Automated observational station,32390,4833,ennis,North West,-21.329,65.5724,260.0,1998,Vegagerðin
 Steingrímsfjarðarheiði,Automated observational station,32474,4829,stehe,West fjords,-22.1291,65.7503,440.0,1995,Vegagerðin
@@ -248,7 +247,7 @@ Fagridalur,Automated observational station,34073,4887,fagri,East fjords,-14.3327
 Græfur í Fagradal,Automated observational station,34081,-99,grfur,East fjords,-14.339,65.1682,322.0,2017,Vegagerðin
 Oddsskarð,Automated observational station,34087,4897,oddsk,East fjords,-13.9187,65.0637,520.0,1995,Vegagerðin
 Jökuldalur,Automated observational station,34148,4991,jodal,Eastern coastal areas,-15.2237,65.3019,473.0,2012,Vegagerðin
-Fjarðarheiði,Automated observational station,34175,34175,fjahe,East fjords,-14.259,65.2661,600.0,1995,Vegagerðin
+Fjarðarheiði,Automated observational station,34175,-99,fjahe,East fjords,-14.259,65.2661,600.0,1995,Vegagerðin
 Möðrudalsöræfi II,Automated observational station,34238,4881,modhe,North East,-15.5855,65.457,550.0,2000,Vegagerðin
 Biskupsháls,Automated observational station,34326,4975,biskh,North East,-16.0113,65.5583,521.0,2007,Vegagerðin
 Vopnafjarðarheiði,Automated observational station,34348,4879,vopfh,Eastern coastal areas,-15.3158,65.5947,440.0,2012,Vegagerðin
