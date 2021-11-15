@@ -19,7 +19,7 @@ Grindavík,Automated observational station,1361,4910,grvik,South,-22.417,63.8438
 Eyrarbakki,Automated observational station,1395,4038,eyrar,South,-21.1602,63.8692,3.0,2005,Veðurstofa Íslands
 Garðskagaviti,Automated observational station,1453,4116,garsk,Faxaflói,-22.6893,64.0817,4.0,1995,Vegagerðin
 Seltjarnarnes - Suðurnes,Automated observational station,1471,-99,selsu,Faxaflói,-22.0325,64.1545,4.5,2019,Veðurstofa Íslands
-Kópavogur - Fossvogsdalur,Automated observational station,1472,-99,fosvd,Faxaflói,-21.8617,64.1163,20.0,2021,Veðurstofa Íslands
+Kópavogur - Fossvogsdalur,Automated observational station,1472,-99,fosvd,Faxaflói,-21.8617,64.1163,19.0,2021,Veðurstofa Íslands
 Straumsvík,Automated observational station,1473,4124,strau,Faxaflói,-22.0404,64.0438,7.0,2001,Veðurstofa Íslands
 Garðabær - Urriðaholt,Automated observational station,1474,-99,uholt,Faxaflói,-21.9107,64.0712,37.0,2019,Veðurstofa Íslands
 Reykjavík,Automated observational station,1475,4130,reitr,Faxaflói,-21.902,64.1275,52.0,1993,Veðurstofa Íslands
@@ -82,12 +82,12 @@ Nautabú,Automated observational station,3242,4135,nauta,North West,-19.3691,65.
 Svartárkot,Automated observational station,3292,4153,svkot,North East,-17.2465,65.3419,405.0,2003,Landsnet
 Blönduós,Automated observational station,3317,4145,bldos,North West,-20.2925,65.658,8.0,2003,Veðurstofa Íslands
 Torfur,Automated observational station,3371,4061,torfr,North East,-18.1616,65.501,25.790000915527344,2006,Veðurstofa Íslands
-Reykir í Fnjóskadal,Automated observational station,3380,4867,reykf,North East,-17.7667,65.5851,220.0,2000,Veðurstofa Íslands
+Reykir í Fnjóskadal,Automated observational station,3380,4867,reykf,North East,-17.7667,65.5851,211.39999389648438,2000,Veðurstofa Íslands
 Sauðárkrókur flugvöllur,Automated observational station,3433,4953,skrok,North West,-19.5737,65.7259,0.5,2007,Veðurstofa Íslands
 Möðruvellir,Automated observational station,3463,4167,modru,North East,-18.2513,65.7707,15.0,1991,Veðurstofa Íslands
 Akureyri - Krossanesbraut,Automated observational station,3471,4137,akurk,North East,-18.1113,65.6961,31.0,2005,Veðurstofa Íslands
 Vaðlaheiði,Automated observational station,3474,4163,vadla,North East,-18.0021,65.7483,580.0,1999,Veðurstofa Íslands - Ofanflóð
-Végeirsstaðir í Fnjóskadal,Automated observational station,3477,4141,vegei,North East,-17.8857,65.817,120.0,2001,Veðurstofa Íslands
+Végeirsstaðir í Fnjóskadal,Automated observational station,3477,4141,vegei,North East,-17.8857,65.817,130.3000030517578,2001,Veðurstofa Íslands
 Staðarhóll,Automated observational station,3591,4069,sholl,North East,-17.3446,65.821,40.0,2012,Veðurstofa Íslands
 Rauðhálsar,Automated observational station,3596,4977,raudh,North East,-17.2015,65.856,390.0,2015,Landsnet
 Ólafsfjörður,Automated observational station,3658,4155,olfjo,North East,-18.6656,66.0739,5.0,1997,Veðurstofa Íslands - Ofanflóð
@@ -114,7 +114,7 @@ Bjarnarey,Automated observational station,4472,4187,bjarn,Eastern coastal areas,
 Ásbyrgi,Automated observational station,4614,4179,asbrg,North East,-16.4833,66.03,31.5,1998,Veðurstofa Íslands
 Miðfjarðarnes,Automated observational station,4652,4983,midfj,Eastern coastal areas,-15.0799,66.0668,25.0,2008,Veðurstofa Íslands
 Raufarhöfn,Automated observational station,4828,4077,raufa,North East,-15.9527,66.456,4.0,2005,Veðurstofa Íslands
-Möðrudalur,Automated observational station,4830,4181,modal,Eastern coastal areas,-15.8833,65.3754,450.0,2003,Veðurstofa Íslands
+Möðrudalur,Automated observational station,4830,4181,modal,Eastern coastal areas,-15.8833,65.3754,452.0,2003,Veðurstofa Íslands
 Fontur,Automated observational station,4867,4183,fontr,North East,-14.5326,66.3783,43.0,1994,Veðurstofa Íslands
 Rauðinúpur,Automated observational station,4912,4175,raudi,North East,-16.5444,66.5082,59.29999923706055,1997,Veðurstofa Íslands
 Rif á Melrakkasléttu,Automated observational station,4921,-99,rifms,North East,-16.1441,66.5115,10.0,2018,Rannsóknastöðin RIF
