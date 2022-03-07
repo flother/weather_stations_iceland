@@ -38,7 +38,7 @@ Skrauthólar,Automated observational station,1578,4818,skrau,Faxaflói,-21.8046,
 Skálafell,Automated observational station,1590,4136,sfell,Faxaflói,-21.4633,64.2405,771.0,1995,Veðurstofa Íslands
 Þingvellir,Automated observational station,1596,4142,tingv,South,-21.0875,64.2807,110.0,1996,Veðurstofa Íslands
 Hafnarmelar,Automated observational station,1673,4128,hamel,Faxaflói,-21.9628,64.4647,20.0,1998,Veðurstofa Íslands
-Skarðsheiði Miðfitjahóll,Automated observational station,1679,4904,skahe,Faxaflói,-21.7621,64.4902,480.0,2009,Landsnet
+Skarðsheiði Miðfitjahóll,Automated observational station,1679,4904,skahe,Faxaflói,-21.7621,64.4902,471.29998779296875,2009,Landsnet
 Þyrill,Automated observational station,1685,4806,tyril,Faxaflói,-21.4169,64.3877,61.5,2003,Veðurstofa Íslands
 Botnsheiði,Automated observational station,1689,4814,botns,Faxaflói,-21.4034,64.4529,500.5,2001,Landsnet
 Hvanneyri,Automated observational station,1779,4134,hveyr,Faxaflói,-21.7649,64.5622,12.399999618530273,1997,Veðurstofa Íslands
@@ -81,7 +81,7 @@ Haugur,Automated observational station,3103,4143,haugr,North West,-20.785,65.183
 Brúsastaðir,Automated observational station,3223,4147,brusa,North West,-20.2473,65.3784,20.0,2003,Veðurstofa Íslands
 Kolka,Automated observational station,3225,4149,kolka,Central,-19.7177,65.2307,506.0,1993,Landsvirkjun
 Nautabú,Automated observational station,3242,4135,nauta,North West,-19.3691,65.4583,111.5,2004,Veðurstofa Íslands
-Svartárkot,Automated observational station,3292,4153,svkot,North East,-17.2465,65.3419,405.0,2003,Landsnet
+Svartárkot,Automated observational station,3292,4153,svkot,North East,-17.2465,65.3419,403.3999938964844,2003,Landsnet
 Blönduós,Automated observational station,3317,4145,bldos,North West,-20.2925,65.658,8.0,2003,Veðurstofa Íslands
 Torfur,Automated observational station,3371,4061,torfr,North East,-18.1616,65.501,25.790000915527344,2006,Veðurstofa Íslands
 Reykir í Fnjóskadal,Automated observational station,3380,4867,reykf,North East,-17.7667,65.5851,211.39999389648438,2000,Veðurstofa Íslands
@@ -97,7 +97,6 @@ Húsavík,Automated observational station,3696,4171,husvk,North East,-17.3281,66
 Skagatá,Automated observational station,3720,4151,skagt,North West,-20.0989,66.1192,9.0,1996,Vegagerðin
 Sauðanesviti,Automated observational station,3751,-99,saudv,North West,-18.9534,66.1845,35.0,2020,Veðurstofa Íslands
 Siglufjörður,Automated observational station,3752,4157,sifjo,North West,-18.919,66.1349,6.0,1995,Veðurstofa Íslands - Ofanflóð
-Siglunes,Automated observational station,3754,4159,sines,North West,-18.8431,66.1938,8.0,1995,Veðurstofa Íslands
 Flatey á Skjálfanda,Automated observational station,3779,4965,flats,North East,-17.8408,66.1631,22.0,2005,Vegagerðin
 Mánárbakki,Automated observational station,3797,4071,manar,North East,-17.1028,66.1994,17.0,2005,Veðurstofa Íslands
 Grímsey,Automated observational station,3976,4165,grimy,North East,-18.0167,66.5438,19.0,2005,Veðurstofa Íslands
@@ -139,7 +138,7 @@ Hallsteinsdalsvarp,Automated observational station,5970,4981,halls,East fjords,-
 Kollaleira í Reyðarfirði,Automated observational station,5975,4186,kolla,East fjords,-14.2395,65.0367,44.0,2000,Veðurstofa Íslands
 Eskifjörður,Automated observational station,5981,4185,eskif,East fjords,-14.037,65.0763,2.0,1998,Veðurstofa Íslands - Ofanflóð
 Fáskrúðsfjörður Ljósaland,Automated observational station,5982,4998,faskr,East fjords,-14.0407,64.9372,8.0,2007,Veðurstofa Íslands - Ofanflóð
-Vattarnes,Automated observational station,5988,4188,vatta,East fjords,-13.6846,64.937,5.0,2000,Veðurstofa Íslands
+Vattarnes,Automated observational station,5988,4188,vatta,East fjords,-13.6846,64.937,5.300000190734863,2000,Veðurstofa Íslands
 Neskaupstaður,Automated observational station,5990,4199,nkaup,East fjords,-13.6694,65.1503,49.70000076293945,1999,Veðurstofa Íslands - Ofanflóð
 Neskaupstaður - Drangagil,Automated observational station,5992,4899,nkaud,East fjords,-13.688,65.1618,559.0,2005,Veðurstofa Íslands - Ofanflóð
 Seley,Automated observational station,5993,4198,seley,East fjords,-13.5192,64.9778,18.0,1996,Vegagerðin
