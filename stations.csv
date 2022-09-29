@@ -47,7 +47,7 @@ Hvanneyri,Automated observational station,1779,4134,hveyr,Faxaflói,-21.7649,64.
 Stafholtsey,Automated observational station,1781,4034,stfey,Faxaflói,-21.5893,64.643,14.0,2018,Veðurstofa Íslands
 Fíflholt á Mýrum,Automated observational station,1868,4914,fiflh,Faxaflói,-22.1473,64.6943,55.70000076293945,2006,Veðurstofa Íslands
 Litla-Skarð,Automated observational station,1881,4112,litsk,Faxaflói,-21.6297,64.7268,115.0,2000,Veðurstofa Íslands
-Gufuskálar,Automated observational station,1919,4104,gufus,Breiðafjörður,-23.9346,64.9041,7.0,1994,Veðurstofa Íslands
+Gufuskálar,Automated observational station,1919,4104,gufus,Breiðafjörður,-23.9316,64.9041,7.0,1994,Veðurstofa Íslands
 Ólafsvík,Automated observational station,1924,4106,olvik,Breiðafjörður,-23.7162,64.8957,19.0,2000,Veðurstofa Íslands - Ofanflóð
 Bláfeldur,Automated observational station,1936,4110,blafe,Faxaflói,-23.3012,64.8393,17.700000762939453,2003,Veðurstofa Íslands
 Grundarfjörður,Automated observational station,1938,4108,grufj,Breiðafjörður,-23.2513,64.9213,17.399999618530273,2003,Veðurstofa Íslands
@@ -64,7 +64,7 @@ Bjarnarfjarðarháls,Automated observational station,2480,-99,bjafh,North West,-
 Hólmavík,Automated observational station,2481,4935,holma,North West,-21.6813,65.6873,10.0,2007,Veðurstofa Íslands
 Hólar í Dýrafirði,Automated observational station,2530,-99,holar,West fjords,-23.5578,65.8686,16.0,2020,Veðurstofa Íslands
 Suðureyri,Automated observational station,2630,-99,seyri,West fjords,-23.5077,66.1251,2.0,2021,Veðurstofa Íslands - Ofanflóð
-Flateyri,Automated observational station,2631,4113,feyri,West fjords,-23.5101,66.0499,3.0,1997,Veðurstofa Íslands - Ofanflóð
+Flateyri,Automated observational station,2631,-99,feyri,West fjords,-23.5101,66.0499,3.0,1997,Veðurstofa Íslands - Ofanflóð
 Þverfjall,Automated observational station,2636,4109,tverf,West fjords,-23.3074,66.0444,741.0,1990,Veðurstofa Íslands - Ofanflóð
 Seljalandsdalur,Automated observational station,2640,4107,selja,West fjords,-23.1987,66.076,550.0,1995,Veðurstofa Íslands - Ofanflóð
 Seljalandsdalur - skíðaskáli,Automated observational station,2641,4819,selsk,West fjords,-23.2103,66.0687,283.0,2005,Veðurstofa Íslands - Ofanflóð
@@ -82,7 +82,7 @@ Brúsastaðir,Automated observational station,3223,4147,brusa,North West,-20.247
 Kolka,Automated observational station,3225,4149,kolka,Central,-19.7177,65.2307,506.0,1993,Landsvirkjun
 Nautabú,Automated observational station,3242,4135,nauta,North West,-19.3691,65.4583,111.5,2004,Veðurstofa Íslands
 Svartárkot,Automated observational station,3292,4153,svkot,North East,-17.2465,65.3419,403.3999938964844,2003,Landsnet
-Blönduós,Automated observational station,3317,4145,bldos,North West,-20.2925,65.658,8.0,2003,Veðurstofa Íslands
+Blönduós,Automated observational station,3317,4045,bldos,North West,-20.2925,65.658,8.0,2003,Veðurstofa Íslands
 Torfur,Automated observational station,3371,4061,torfr,North East,-18.1616,65.501,25.790000915527344,2006,Veðurstofa Íslands
 Reykir í Fnjóskadal,Automated observational station,3380,4867,reykf,North East,-17.7667,65.5851,211.39999389648438,2000,Veðurstofa Íslands
 Sauðárkrókur flugvöllur,Automated observational station,3433,4953,skrok,North West,-19.5737,65.7259,0.5,2007,Veðurstofa Íslands
@@ -105,7 +105,7 @@ Seyðisfjörður,Automated observational station,4182,4195,seydi,East fjords,-14
 Dalatangi,Automated observational station,4193,4197,dalat,East fjords,-13.575,65.2682,10.0,1994,Veðurstofa Íslands
 Gagnheiði,Automated observational station,4275,4193,gagnh,East fjords,-14.2589,65.2235,949.0,1993,Veðurstofa Íslands - Ofanflóð
 Mývatn,Automated observational station,4300,4173,myvtn,North East,-16.9768,65.6193,282.29998779296875,1996,Veðurstofa Íslands
-Grímsstaðir á Fjöllum,Automated observational station,4323,4941,grist,North East,-16.1284,65.6423,381.0,2012,Veðurstofa Íslands
+Grímsstaðir á Fjöllum,Automated observational station,4323,4941,grist,North East,-16.1284,65.6423,382.29998779296875,2012,Veðurstofa Íslands
 Bakkagerði,Automated observational station,4380,-99,bfjeb,Eastern coastal areas,-13.8167,65.5235,28.0,2017,Veðurstofa Íslands - Ofanflóð
 Krafla,Automated observational station,4406,4987,krafl,North East,-16.7748,65.6945,455.0,2011,Landsvirkjun
 Skjaldþingsstaðir,Automated observational station,4455,4985,skjal,Eastern coastal areas,-14.8208,65.7036,34.79999923706055,2006,Veðurstofa Íslands
