@@ -155,6 +155,7 @@ Kirkjubæjarklaustur - Stjórnarsandur,Automated observational station,6272,-99,
 Selfoss,Automated observational station,6300,-99,sfoss,South,-20.9707,63.9355,20.0,2019,Veðurstofa Íslands
 Kálfhóll,Automated observational station,6310,4804,kalfh,South,-20.5669,63.9628,52.0,2003,Veðurstofa Íslands
 Hella,Automated observational station,6315,4944,hella,South,-20.3654,63.8257,20.0,2006,Veðurstofa Íslands
+Skeiðarársandur,Automated observational station,6393,4939,ssand,South East,-17.274,63.9034,0.30000001192092896,2013,Veðurstofa Íslands
 Árnes,Automated observational station,6420,4820,arnes,South,-20.2521,64.0405,87.0,2003,Veðurstofa Íslands
 Mörk á Landi,Automated observational station,6424,4948,morla,South,-20.0189,64.0293,125.0,2008,Veðurstofa Íslands
 Búrfell,Automated observational station,6430,4154,bfell,South,-19.7449,64.1168,249.0,1993,Landsvirkjun
@@ -176,6 +177,7 @@ Langihryggur,Automated observational station,7366,-99,langh,South,-22.2555,63.87
 Ólafsfjörður - Tindaöxl,Automated observational station,7659,4955,olfti,North East,-18.6309,66.063,450.0,2006,Veðurstofa Íslands - Ofanflóð
 Bolungarvík - Traðargil,Automated observational station,7736,4927,boltr,West fjords,-23.2681,66.1684,500.0,2006,Veðurstofa Íslands - Ofanflóð
 Siglufjörður - Hafnarfjall,Automated observational station,7753,4957,sifhf,North West,-18.9352,66.1535,550.0,2006,Veðurstofa Íslands - Ofanflóð
+Dyngjujökull,Automated observational station,7790,-99,djoku,Central,-17.2348,64.5039,1689.0,2016,Veðurstofa Íslands
 Landmannalaugar,Virtual station,9001,-99,lndml,Central,-19.06,63.99,590.0,2014,Veðurstofa Íslands
 Þverfellshorn á Esju,Virtual station,9002,-99,thvfh,Faxaflói,-21.7117,64.2328,780.0,2014,Veðurstofa Íslands
 Fimmvörðuháls,Virtual station,9003,-99,fimmv,South,-19.4515,63.662,950.0,2014,Veðurstofa Íslands
