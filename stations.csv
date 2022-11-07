@@ -39,14 +39,12 @@ Skarðsmýrarfjall,Automated observational station,1496,4922,skamy,Faxaflói,-21
 Skrauthólar,Automated observational station,1578,4818,skrau,Faxaflói,-21.8046,64.2318,20.0,2001,Veðurstofa Íslands
 Skálafell,Automated observational station,1590,4136,sfell,Faxaflói,-21.4633,64.2405,771.0,1995,Veðurstofa Íslands
 Þingvellir,Automated observational station,1596,4142,tingv,South,-21.0875,64.2807,110.0,1996,Veðurstofa Íslands
-Hafnarmelar,Automated observational station,1673,4128,hamel,Faxaflói,-21.9628,64.4647,20.0,1998,Veðurstofa Íslands
 Skarðsheiði Miðfitjahóll,Automated observational station,1679,4904,skahe,Faxaflói,-21.7621,64.4902,471.29998779296875,2009,Landsnet
 Þyrill,Automated observational station,1685,4806,tyril,Faxaflói,-21.4169,64.3877,61.5,2003,Veðurstofa Íslands
 Botnsheiði,Automated observational station,1689,4814,botns,Faxaflói,-21.4034,64.4529,500.5,2001,Landsnet
 Hvanneyri,Automated observational station,1779,4134,hveyr,Faxaflói,-21.7649,64.5622,12.399999618530273,1997,Veðurstofa Íslands
 Stafholtsey,Automated observational station,1781,4034,stfey,Faxaflói,-21.5893,64.643,14.0,2018,Veðurstofa Íslands
 Fíflholt á Mýrum,Automated observational station,1868,4914,fiflh,Faxaflói,-22.1473,64.6943,55.70000076293945,2006,Veðurstofa Íslands
-Litla-Skarð,Automated observational station,1881,4112,litsk,Faxaflói,-21.6297,64.7268,115.0,2000,Veðurstofa Íslands
 Gufuskálar,Automated observational station,1919,4104,gufus,Breiðafjörður,-23.9316,64.9041,7.0,1994,Veðurstofa Íslands
 Ólafsvík,Automated observational station,1924,4106,olvik,Breiðafjörður,-23.7162,64.8957,19.0,2000,Veðurstofa Íslands - Ofanflóð
 Bláfeldur,Automated observational station,1936,4110,blafe,Faxaflói,-23.3012,64.8393,17.700000762939453,2003,Veðurstofa Íslands
@@ -90,6 +88,7 @@ Möðruvellir,Automated observational station,3463,4167,modru,North East,-18.251
 Akureyri - Krossanesbraut,Automated observational station,3471,4137,akurk,North East,-18.1113,65.6961,31.0,2005,Veðurstofa Íslands
 Vaðlaheiði,Automated observational station,3474,4163,vadla,North East,-18.0021,65.7483,580.0,1999,Veðurstofa Íslands - Ofanflóð
 Végeirsstaðir í Fnjóskadal,Automated observational station,3477,4141,vegei,North East,-17.8857,65.817,130.3000030517578,2001,Veðurstofa Íslands
+Björg í Kinn,Automated observational station,3585,-99,utkin,North East,-17.5919,65.9454,4.0,2022,Veðurstofa Íslands - Ofanflóð
 Staðarhóll,Automated observational station,3591,4069,sholl,North East,-17.3446,65.821,40.0,2012,Veðurstofa Íslands
 Ólafsfjörður,Automated observational station,3658,4155,olfjo,North East,-18.6656,66.0739,5.0,1997,Veðurstofa Íslands - Ofanflóð
 Húsavík,Automated observational station,3696,4171,husvk,North East,-17.3281,66.0418,28.200000762939453,2002,Veðurstofa Íslands
