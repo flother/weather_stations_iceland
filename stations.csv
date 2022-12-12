@@ -69,7 +69,8 @@ Seljalandsdalur - skíðaskáli,Automated observational station,2641,4819,selsk,
 Ísafjörður,Automated observational station,2642,4117,isafj,West fjords,-23.1699,66.0596,2.200000047683716,1998,Veðurstofa Íslands - Ofanflóð
 Súðavík,Automated observational station,2646,4111,sudav,West fjords,-22.986,66.0426,10.899999618530273,1995,Veðurstofa Íslands - Ofanflóð
 Æðey,Automated observational station,2655,4017,aedey,West fjords,-22.6594,66.1006,21.0,2012,Veðurstofa Íslands
-Gjögurflugvöllur,Automated observational station,2692,4131,gjogr,North West,-21.3304,65.9951,31.0,1994,Veðurstofa Íslands
+Gjögurflugvöllur,Automated observational station,2692,4131,gjogr,North West,-21.3304,65.9951,28.100000381469727,1994,Veðurstofa Íslands
+Gjögur,Automated observational station,2693,-99,gjogu,North West,-21.3278,65.9968,25.600000381469727,2016,Veðurstofa Íslands - Ofanflóð
 Bolungarvík,Automated observational station,2738,4005,bolun,West fjords,-23.2538,66.161,27.0,1999,Veðurstofa Íslands - Ofanflóð
 Hornbjargsviti,Automated observational station,2862,4123,hornb,North West,-22.3789,66.4107,22.0,1995,Vegagerðin
 Straumnesviti,Automated observational station,2941,4121,strnv,West fjords,-23.133,66.433,7.0,1995,Vegagerðin
@@ -103,6 +104,7 @@ Hallormsstaður,Automated observational station,4060,4189,hallm,Eastern coastal 
 Seyðisfjörður,Automated observational station,4182,4195,seydi,East fjords,-14.0064,65.2549,37.0,2014,Veðurstofa Íslands - Ofanflóð
 Dalatangi,Automated observational station,4193,4197,dalat,East fjords,-13.5751,65.2681,10.0,1994,Veðurstofa Íslands
 Gagnheiði,Automated observational station,4275,4193,gagnh,East fjords,-14.2589,65.2235,949.0,1993,Veðurstofa Íslands - Ofanflóð
+Gagnheiði II,Automated observational station,4276,-99,gagnv,East fjords,-14.2589,65.2234,949.0,2022,Veðurstofa Íslands
 Mývatn,Automated observational station,4300,4173,myvtn,North East,-16.9768,65.6193,282.29998779296875,1996,Veðurstofa Íslands
 Grímsstaðir á Fjöllum,Automated observational station,4323,4941,grist,North East,-16.1284,65.6423,382.29998779296875,2012,Veðurstofa Íslands
 Bakkagerði,Automated observational station,4380,-99,bfjeb,Eastern coastal areas,-13.8167,65.5235,28.0,2017,Veðurstofa Íslands - Ofanflóð
