@@ -69,6 +69,7 @@ Seljalandsdalur - skíðaskáli,Automated observational station,2641,4819,selsk,
 Ísafjörður,Automated observational station,2642,4117,isafj,West fjords,-23.1699,66.0596,2.200000047683716,1998,Veðurstofa Íslands - Ofanflóð
 Súðavík,Automated observational station,2646,4111,sudav,West fjords,-22.986,66.0426,10.899999618530273,1995,Veðurstofa Íslands - Ofanflóð
 Æðey,Automated observational station,2655,4017,aedey,West fjords,-22.6594,66.1006,21.0,2012,Veðurstofa Íslands
+Litla-Ávík,Automated observational station,2691,-99,lavik,North West,-21.4247,66.0211,8.100000381469727,2022,Veðurstofa Íslands
 Gjögurflugvöllur,Automated observational station,2692,4131,gjogr,North West,-21.3304,65.9951,28.100000381469727,1994,Veðurstofa Íslands
 Gjögur,Automated observational station,2693,-99,gjogu,North West,-21.3278,65.9968,25.600000381469727,2016,Veðurstofa Íslands - Ofanflóð
 Bolungarvík,Automated observational station,2738,4005,bolun,West fjords,-23.2538,66.161,27.0,1999,Veðurstofa Íslands - Ofanflóð
@@ -173,7 +174,6 @@ Setur,Automated observational station,6748,4158,setur,Central,-19.0186,64.6043,6
 Húsafell,Automated observational station,6802,4150,husaf,Faxaflói,-20.869,64.699,132.8000030517578,1998,Veðurstofa Íslands
 Hveravellir,Automated observational station,6935,4056,hvell,Central,-19.5622,64.8668,641.0,1996,Veðurstofa Íslands
 Sandbúðir,Automated observational station,6975,4168,sandb,Central,-17.983,64.933,820.0,1993,Landsvirkjun
-Langihryggur,Automated observational station,7366,-99,langh,Faxaflói,-22.2555,63.8757,262.0,2022,Veðurstofa Íslands
 Þverfjall vindur,Automated observational station,7636,-99,tverv,West fjords,-23.3076,66.0448,741.0,2020,Veðurstofa Íslands
 Ólafsfjörður - Tindaöxl,Automated observational station,7659,4955,olfti,North East,-18.6309,66.063,450.0,2006,Veðurstofa Íslands - Ofanflóð
 Bolungarvík - Traðargil,Automated observational station,7736,4927,boltr,West fjords,-23.2681,66.1684,500.0,2006,Veðurstofa Íslands - Ofanflóð
