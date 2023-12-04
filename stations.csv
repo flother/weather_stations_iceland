@@ -2,7 +2,7 @@ name,type,station_number,wmo_number,abbreviation,region,longitude,latitude,eleva
 Reykjavík,Manned synoptic station,1,4030,rvk,Faxaflói,-21.9028,64.1275,52.0,1920,Veðurstofa Íslands
 Stykkishólmur,Manned synoptic station,178,4013,sth,Breiðafjörður,-22.7339,65.074,13.180000305175781,1845,Veðurstofa Íslands
 Ásgarður,Manned synoptic station,195,4027,asg,Breiðafjörður,-21.7543,65.2297,50.0,1992,Veðurstofa Íslands
-Hólar í Dýrafirði,Manned synoptic station,234,4007,hold,West fjords,-23.5641,65.8679,30.0,1983,Veðurstofa Íslands
+Hólar í Dýrafirði,Manned synoptic station,234,-99,hold,West fjords,-23.5641,65.8679,30.0,1983,Veðurstofa Íslands
 Litla-Ávík,Manned synoptic station,293,4031,ltav,North West,-21.425,66.0213,15.0,1995,Veðurstofa Íslands
 Sauðanesviti,Manned synoptic station,400,4059,sdnv,North West,-18.9534,66.1852,30.0,1990,Veðurstofa Íslands
 Akureyri,Manned synoptic station,422,4063,ak,North East,-18.1002,65.6856,23.0,1881,Veðurstofa Íslands
@@ -15,7 +15,7 @@ Vatnsskarðshólar,Manned synoptic station,802,4058,vtns,South,-19.183,63.4236,2
 Hjarðarland,Manned synoptic station,931,4042,hjrl,South,-20.3309,64.2504,89.0,1990,Veðurstofa Íslands
 Keflavíkurflugvöllur,Manned synoptic station,990,4018,kvk,Faxaflói,-22.5876,63.9747,47.0,1952,Veðurstofa Íslands
 Keflavíkurflugvöllur,Automated observational station,1350,4118,kefla,Faxaflói,-22.6005,63.9829,50.900001525878906,2008,Veðurstofa Íslands
-Grindavík,Automated observational station,1361,4910,grvik,South,-22.417,63.8438,9.300000190734863,2008,Veðurstofa Íslands
+Grindavík,Automated observational station,1361,4120,grvik,South,-22.417,63.8438,9.300000190734863,2008,Veðurstofa Íslands
 Eyrarbakki,Automated observational station,1395,4038,eyrar,South,-21.1602,63.8692,3.0,2005,Veðurstofa Íslands
 Garðskagaviti,Automated observational station,1453,4116,garsk,Faxaflói,-22.6893,64.0817,4.0,1995,Vegagerðin
 Reykjavík Hljómskálagarður,Automated observational station,1469,-99,hljom,Faxaflói,-21.9436,64.1411,4.5,2022,Veðurstofa Íslands
@@ -61,7 +61,7 @@ Tálknafjörður,Automated observational station,2323,4905,talkn,Breiðafjörðu
 Bíldudalur,Automated observational station,2428,4125,bildu,West fjords,-23.6122,65.6794,16.0,1998,Veðurstofa Íslands - Ofanflóð
 Bjarnarfjarðarháls,Automated observational station,2480,-99,bjafh,North West,-21.5718,65.7284,238.5,2013,Orkubú Vestfjarða
 Hólmavík,Automated observational station,2481,4935,holma,North West,-21.6813,65.6873,10.0,2007,Veðurstofa Íslands
-Hólar í Dýrafirði,Automated observational station,2530,-99,holar,West fjords,-23.5578,65.8686,16.0,2020,Veðurstofa Íslands
+Hólar í Dýrafirði,Automated observational station,2530,4007,holar,West fjords,-23.5578,65.8686,16.0,2020,Veðurstofa Íslands
 Suðureyri,Automated observational station,2630,-99,seyri,West fjords,-23.5077,66.1251,2.0,2021,Veðurstofa Íslands - Ofanflóð
 Flateyri,Automated observational station,2631,-99,feyri,West fjords,-23.51,66.0498,3.0,1997,Veðurstofa Íslands - Ofanflóð
 Þverfjall,Automated observational station,2636,4109,tverf,West fjords,-23.3074,66.0444,741.0,1990,Veðurstofa Íslands - Ofanflóð
@@ -105,7 +105,6 @@ Upptyppingar,Automated observational station,4019,4177,uppty,Central,-16.2104,65
 Hallormsstaður,Automated observational station,4060,4189,hallm,Eastern coastal areas,-14.7449,65.0939,60.0,1992,Veðurstofa Íslands
 Seyðisfjörður,Automated observational station,4182,4195,seydi,East fjords,-14.0064,65.2549,37.0,2014,Veðurstofa Íslands - Ofanflóð
 Dalatangi,Automated observational station,4193,4197,dalat,East fjords,-13.5751,65.2681,10.0,1994,Veðurstofa Íslands
-Gagnheiði,Automated observational station,4275,4193,gagnh,East fjords,-14.2589,65.2235,949.0,1993,Veðurstofa Íslands - Ofanflóð
 Gagnheiði II,Automated observational station,4276,-99,gagnv,East fjords,-14.2589,65.2234,949.0,2022,Veðurstofa Íslands
 Mývatn,Automated observational station,4300,4173,myvtn,North East,-16.9768,65.6193,282.29998779296875,1996,Veðurstofa Íslands
 Grímsstaðir á Fjöllum,Automated observational station,4323,4941,grist,North East,-16.1284,65.6423,382.29998779296875,2012,Veðurstofa Íslands
