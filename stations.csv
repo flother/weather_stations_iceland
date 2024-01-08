@@ -2,17 +2,13 @@ name,type,station_number,wmo_number,abbreviation,region,longitude,latitude,eleva
 Reykjavík,Manned synoptic station,1,4030,rvk,Faxaflói,-21.9028,64.1275,52.0,1920,Veðurstofa Íslands
 Stykkishólmur,Manned synoptic station,178,4013,sth,Breiðafjörður,-22.7339,65.074,13.180000305175781,1845,Veðurstofa Íslands
 Ásgarður,Manned synoptic station,195,4027,asg,Breiðafjörður,-21.7543,65.2297,50.0,1992,Veðurstofa Íslands
-Hólar í Dýrafirði,Manned synoptic station,234,-99,hold,West fjords,-23.5641,65.8679,30.0,1983,Veðurstofa Íslands
 Litla-Ávík,Manned synoptic station,293,4031,ltav,North West,-21.425,66.0213,15.0,1995,Veðurstofa Íslands
 Sauðanesviti,Manned synoptic station,400,4059,sdnv,North West,-18.9534,66.1852,30.0,1990,Veðurstofa Íslands
-Akureyri,Manned synoptic station,422,4063,ak,North East,-18.1002,65.6856,23.0,1881,Veðurstofa Íslands
 Grímsstaðir,Manned synoptic station,495,4073,grst,North East,-16.1208,65.6423,384.0,1907,Veðurstofa Íslands
-Miðfjarðarnes,Manned synoptic station,515,4083,mdfj,Eastern coastal areas,-15.0792,66.0659,25.0,1999,Veðurstofa Íslands
 Skjaldþingsstaðir,Manned synoptic station,527,4085,skjl,Eastern coastal areas,-14.8211,65.7027,42.20000076293945,1994,Veðurstofa Íslands
 Egilsstaðaflugvöllur,Synoptic station based on metar data and automated observations,571,4089,egflu,Eastern coastal areas,-14.4025,65.283,23.0,2001,Veðurstofa Íslands
 Dalatangi,Manned synoptic station,620,4097,dt,East fjords,-13.5759,65.2682,9.0,1938,Veðurstofa Íslands
 Vatnsskarðshólar,Manned synoptic station,802,4058,vtns,South,-19.183,63.4236,20.0,1978,Veðurstofa Íslands
-Hjarðarland,Manned synoptic station,931,4042,hjrl,South,-20.3309,64.2504,89.0,1990,Veðurstofa Íslands
 Keflavíkurflugvöllur,Manned synoptic station,990,4018,kvk,Faxaflói,-22.5876,63.9747,47.0,1952,Veðurstofa Íslands
 Keflavíkurflugvöllur,Automated observational station,1350,4118,kefla,Faxaflói,-22.6005,63.9829,50.900001525878906,2008,Veðurstofa Íslands
 Grindavík,Automated observational station,1361,4120,grvik,South,-22.417,63.8438,9.300000190734863,2008,Veðurstofa Íslands
