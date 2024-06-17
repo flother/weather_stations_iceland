@@ -41,7 +41,7 @@ Stafholtsey,Automated observational station,1781,4034,stfey,Faxaflói,-21.5893,6
 Fíflholt á Mýrum,Automated observational station,1868,4914,fiflh,Faxaflói,-22.1473,64.6943,55.70000076293945,2006,Veðurstofa Íslands
 Gufuskálar,Automated observational station,1919,4104,gufus,Breiðafjörður,-23.9316,64.9041,7.0,1994,Veðurstofa Íslands
 Ólafsvík,Automated observational station,1924,4106,olvik,Breiðafjörður,-23.7162,64.8957,19.0,2000,Veðurstofa Íslands - Ofanflóð
-Bláfeldur,Automated observational station,1936,4110,blafe,Faxaflói,-23.3018,64.8393,17.700000762939453,2003,Veðurstofa Íslands
+Bláfeldur,Automated observational station,1936,4110,blafe,Faxaflói,-23.3018,64.8393,13.100000381469727,2003,Veðurstofa Íslands
 Grundarfjörður,Automated observational station,1938,4108,grufj,Breiðafjörður,-23.2513,64.9213,5.699999809265137,2003,Veðurstofa Íslands
 Stykkishólmur,Automated observational station,2050,4122,stykk,Breiðafjörður,-22.7324,65.0717,12.399999618530273,2002,Veðurstofa Íslands
 Ásgarður,Automated observational station,2175,4133,asgar,Breiðafjörður,-21.7543,65.2297,47.900001525878906,2003,Veðurstofa Íslands
@@ -151,7 +151,6 @@ Kirkjubæjarklaustur - Stjórnarsandur,Automated observational station,6272,4064
 Selfoss,Automated observational station,6300,-99,sfoss,South,-20.9707,63.9355,20.0,2019,Veðurstofa Íslands
 Kálfhóll,Automated observational station,6310,4804,kalfh,South,-20.5669,63.9628,52.0,2003,Veðurstofa Íslands
 Hella,Automated observational station,6315,4944,hella,South,-20.3654,63.8257,20.0,2006,Veðurstofa Íslands
-Skeiðarársandur,Automated observational station,6393,4939,ssand,South East,-17.274,63.9034,0.30000001192092896,2013,Veðurstofa Íslands
 Árnes,Automated observational station,6420,4820,arnes,South,-20.2521,64.0405,87.0,2003,Veðurstofa Íslands
 Mörk á Landi,Automated observational station,6424,4948,morla,South,-20.0189,64.0293,125.0,2008,Veðurstofa Íslands
 Búrfell,Automated observational station,6430,4154,bfell,South,-19.7449,64.1168,249.0,1993,Landsvirkjun
