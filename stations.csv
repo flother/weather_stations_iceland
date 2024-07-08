@@ -11,7 +11,6 @@ Keflavíkurflugvöllur,Manned synoptic station,990,4018,kvk,Faxaflói,-22.5876,6
 Keflavíkurflugvöllur,Automated observational station,1350,4118,kefla,Faxaflói,-22.6005,63.9829,50.900001525878906,2008,Veðurstofa Íslands
 Grindavík,Automated observational station,1361,4120,grvik,South,-22.417,63.8438,9.300000190734863,2008,Veðurstofa Íslands
 Eyrarbakki,Automated observational station,1395,4038,eyrar,South,-21.1602,63.8692,3.0,2005,Veðurstofa Íslands
-Garðskagaviti,Automated observational station,1453,4116,garsk,Faxaflói,-22.6893,64.0817,4.0,1995,Vegagerðin
 Reykjavík Hljómskálagarður,Automated observational station,1469,-99,hljom,Faxaflói,-21.9436,64.1411,4.5,2022,Veðurstofa Íslands
 Reykjavík Háahlíð,Automated observational station,1470,-99,reith,Faxaflói,-21.9082,64.1288,60.20000076293945,2021,Veðurstofa Íslands
 Seltjarnarnes - Suðurnes,Automated observational station,1471,-99,selsu,Faxaflói,-22.0325,64.1545,4.5,2019,Veðurstofa Íslands
@@ -36,7 +35,7 @@ Skálafell,Automated observational station,1590,4136,sfell,Faxaflói,-21.4633,64
 Skarðsheiði Miðfitjahóll,Automated observational station,1679,4904,skahe,Faxaflói,-21.7621,64.4902,471.29998779296875,2009,Landsnet
 Þyrill,Automated observational station,1685,4806,tyril,Faxaflói,-21.4169,64.3877,61.5,2003,Veðurstofa Íslands
 Botnsheiði,Automated observational station,1689,4814,botns,Faxaflói,-21.4034,64.4529,500.5,2001,Landsnet
-Hvanneyri (búveðurstöð),Automated observational station,1777,-99,hveyb,Faxaflói,-21.7746,64.5616,11.0,2022,Veðurstofa Íslands
+Hvanneyri búveðurstöð,Automated observational station,1777,-99,hveyb,Faxaflói,-21.7746,64.5616,11.0,2022,Veðurstofa Íslands
 Stafholtsey,Automated observational station,1781,4034,stfey,Faxaflói,-21.5893,64.643,14.0,2018,Veðurstofa Íslands
 Fíflholt á Mýrum,Automated observational station,1868,4914,fiflh,Faxaflói,-22.1473,64.6943,55.70000076293945,2006,Veðurstofa Íslands
 Gufuskálar,Automated observational station,1919,4104,gufus,Breiðafjörður,-23.9316,64.9041,7.0,1994,Veðurstofa Íslands
