@@ -11,6 +11,7 @@ Keflavíkurflugvöllur,Manned synoptic station,990,4018,kvk,Faxaflói,-22.5876,6
 Keflavíkurflugvöllur,Automated observational station,1350,4118,kefla,Faxaflói,-22.6005,63.9829,50.900001525878906,2008,Veðurstofa Íslands
 Grindavík,Automated observational station,1361,4120,grvik,South,-22.417,63.8438,9.300000190734863,2008,Veðurstofa Íslands
 Eyrarbakki,Automated observational station,1395,4038,eyrar,South,-21.1602,63.8692,3.0,2005,Veðurstofa Íslands
+Garðskagaviti,Automated observational station,1453,4116,garsk,Faxaflói,-22.6893,64.0817,4.0,1995,Vegagerðin
 Reykjavík Hljómskálagarður,Automated observational station,1469,-99,hljom,Faxaflói,-21.9436,64.1411,4.5,2022,Veðurstofa Íslands
 Reykjavík Háahlíð,Automated observational station,1470,-99,reith,Faxaflói,-21.9082,64.1288,60.20000076293945,2021,Veðurstofa Íslands
 Seltjarnarnes - Suðurnes,Automated observational station,1471,-99,selsu,Faxaflói,-22.0325,64.1545,4.5,2019,Veðurstofa Íslands
@@ -98,6 +99,7 @@ Upptyppingar,Automated observational station,4019,4177,uppty,Central,-16.2104,65
 Hallormsstaður,Automated observational station,4060,4189,hallm,Eastern coastal areas,-14.7449,65.0939,60.0,1992,Veðurstofa Íslands
 Seyðisfjörður,Automated observational station,4182,4195,seydi,East fjords,-14.0064,65.2549,37.0,2014,Veðurstofa Íslands - Ofanflóð
 Dalatangi,Automated observational station,4193,4197,dalat,East fjords,-13.5751,65.2681,10.0,1994,Veðurstofa Íslands
+Gagnheiði,Automated observational station,4275,4193,gagnh,East fjords,-14.2589,65.2235,949.0,1993,Veðurstofa Íslands - Ofanflóð
 Gagnheiði II,Automated observational station,4276,-99,gagnv,East fjords,-14.2589,65.2234,949.0,2022,Veðurstofa Íslands
 Mývatn,Automated observational station,4300,4173,myvtn,North East,-16.9768,65.6193,282.29998779296875,1996,Veðurstofa Íslands
 Grímsstaðir á Fjöllum,Automated observational station,4323,4941,grist,North East,-16.1284,65.6423,382.29998779296875,2012,Veðurstofa Íslands
