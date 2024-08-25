@@ -3,3 +3,4 @@ __pycache__/
 stations-old.csv
 stations-new.csv
 message.txt
+.venv
