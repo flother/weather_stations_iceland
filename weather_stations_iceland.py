@@ -47,15 +47,18 @@ class WeatherStationsSpider(scrapy.Spider):
             owner,
         ) = [t.get() for t in response.css("table.infotable tr>td:last-child::text")]
 
+        # Not all stations have forecasts available. Those that do have a link to the forecast
+        # webpage. If we find an <a> element with the id "f<NUM>" (where <NUM> is the unique station
+        # integer), we can know that the station has a forecast.
+        forecast_link = response.css(f"a#f{station_number}")
+
         station_number = int(station_number)
         wmo_number = int(wmo_number)
         # The location is a string like "63°52.152', 21°09.611' (63.8692, 21.1602)". We
         # can parse the decimal degrees by getting the text within the brackets and
         # splitting on the comma. Note that the longitude is west of Greenwich but is
         # given without a minus sign (e.g. 21.1602 needs to be converted to -21.1602).
-        latitude, longitude = [
-            float(l.strip(")")) for l in location.split("(", 1)[1].split(",", 1)
-        ]
+        latitude, longitude = [float(l.strip(")")) for l in location.split("(", 1)[1].split(",", 1)]
         if longitude > 0:
             longitude = -longitude
         # The region is something like "South(su)" so we want to remove the "(su)".
@@ -76,4 +79,5 @@ class WeatherStationsSpider(scrapy.Spider):
             "elevation": elevation,
             "start_year": start_year,
             "owner": owner,
+            "has_forecast": "true" if bool(forecast_link) else "false",
         }
