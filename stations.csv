@@ -177,8 +177,8 @@ Siglufjörður - Hafnarfjall,Automated observational station,7753,4957,sifhf,Nor
 Dyngjujökull,Automated observational station,7790,-99,djoku,Central,-17.2348,64.5039,1689.0,2016,Veðurstofa Íslands,false
 Arnarnesvegur,Automated observational station,31109,-99,arnve,Faxaflói,-21.8366,64.0888,116.4000015258789,2016,Vegagerðin,true
 Miklidalur,Automated observational station,31122,4801,mikli,Breiðafjörður,-23.8552,65.5807,370.0,2009,Vegagerðin,false
+Gíghæð,Automated observational station,31361,-99,gigha,Faxaflói,-22.4218,63.9032,63.0,2024,Vegagerðin,false
 Reykjanesbraut,Automated observational station,31363,4822,rbrau,Faxaflói,-22.2296,64.0027,25.0,1995,Vegagerðin,true
-Grindavíkurvegur,Automated observational station,31364,4928,grveg,South,-22.4235,63.8683,57.0,2012,Vegagerðin,false
 Festarfjall,Automated observational station,31365,4911,festf,South,-22.3436,63.8595,135.0,2012,Vegagerðin,false
 Selvogur,Automated observational station,31380,4986,selvg,South,-21.6959,63.8456,20.0,2012,Vegagerðin,true
 Þrengsli,Automated observational station,31387,4858,treng,South,-21.4633,63.9876,260.0,1997,Vegagerðin,true
@@ -268,6 +268,7 @@ Steinar,Automated observational station,36132,4868,stein,South,-19.6906,63.5429,
 Mýrdalssandur,Automated observational station,36156,4860,mysan,South East,-18.6044,63.4661,35.0,1995,Vegagerðin,true
 Eldhraun,Automated observational station,36270,-99,eldhr,South East,-18.1977,63.7338,90.0,2014,Vegagerðin,false
 Þjórsárbrú,Automated observational station,36308,4940,tjors,South,-20.6653,63.9306,49.0,2004,Vegagerðin,true
+Núpahraun,Automated observational station,36382,-99,nupah,South East,-17.7054,63.9334,51.0,2024,Vegagerðin,false
 Lómagnúpur,Automated observational station,36386,4874,lomag,South East,-17.555,63.9575,55.0,1999,Vegagerðin,true
 Gígjukvísl,Automated observational station,36391,4876,gigju,South East,-17.3503,63.9362,58.0,2014,Vegagerðin,false
 Skálholt,Automated observational station,36411,4866,skalh,South,-20.5308,64.1323,60.0,1998,Vegagerðin,true
