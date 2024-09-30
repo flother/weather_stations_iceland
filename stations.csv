@@ -129,7 +129,7 @@ Kárahnjúkar,Automated observational station,5933,4176,karah,Central,-15.7771,6
 Brú á Jökuldal,Automated observational station,5940,4169,brujd,Eastern coastal areas,-15.5297,65.1086,373.0,1998,Veðurstofa Íslands,true
 Eyjabakkar,Automated observational station,5943,4178,eyjab,Central,-15.4235,64.8151,655.3200073242188,1997,Landsvirkjun,true
 Hallormsstaðaháls,Automated observational station,5960,4190,hhals,Central,-14.6748,65.0795,573.1099853515625,1996,Landsnet,false
-Þórudalur,Automated observational station,5965,-99,thord,East fjords,-14.5711,65.0364,300.0,2017,Landsnet,false
+Þórudalur,Automated observational station,5965,-99,thord,East fjords,-14.5711,65.0364,300.0,2017,Landsnet,true
 Hallsteinsdalsvarp,Automated observational station,5970,4981,halls,East fjords,-14.4535,65.0182,634.0,2007,Landsnet,false
 Kollaleira í Reyðarfirði,Automated observational station,5975,4186,kolla,East fjords,-14.2395,65.0367,44.0,2000,Veðurstofa Íslands,true
 Eskifjörður,Automated observational station,5981,4185,eskif,East fjords,-14.037,65.0763,2.0,1998,Veðurstofa Íslands - Ofanflóð,true
