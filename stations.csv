@@ -1,5 +1,5 @@
 name,type,station_number,wmo_number,abbreviation,region,longitude,latitude,elevation,start_year,owner,has_forecast
-Reykjavík,Manned synoptic station,1,4030,rvk,Faxaflói,-21.9028,64.1275,52.0,1920,Veðurstofa Íslands,true
+Reykjavík,Manned synoptic station,1,4030,rvk,Faxaflói,-21.9079,64.1288,60.20000076293945,1920,Veðurstofa Íslands,true
 Stykkishólmur,Manned synoptic station,178,4013,sth,Breiðafjörður,-22.7339,65.074,13.180000305175781,1845,Veðurstofa Íslands,true
 Litla-Ávík,Manned synoptic station,293,4031,ltav,North West,-21.425,66.0213,15.0,1995,Veðurstofa Íslands,true
 Sauðanesviti,Manned synoptic station,400,4059,sdnv,North West,-18.9534,66.1852,30.0,1990,Veðurstofa Íslands,true
