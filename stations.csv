@@ -1,13 +1,13 @@
 name,type,station_number,wmo_number,abbreviation,region,longitude,latitude,elevation,start_year,owner,has_forecast
 Reykjavík,Manned synoptic station,1,4030,rvk,Faxaflói,-21.9079,64.1288,60.20000076293945,1920,Veðurstofa Íslands,true
 Stykkishólmur,Manned synoptic station,178,4013,sth,Breiðafjörður,-22.7339,65.074,13.180000305175781,1845,Veðurstofa Íslands,true
-Litla-Ávík,Manned synoptic station,293,4031,ltav,North West,-21.425,66.0213,15.0,1995,Veðurstofa Íslands,true
+Litla-Ávík,Manned synoptic station,293,4031,ltav,North West,-21.4247,66.0211,8.100000381469727,1995,Veðurstofa Íslands,true
 Sauðanesviti,Manned synoptic station,400,4059,sdnv,North West,-18.9534,66.1852,30.0,1990,Veðurstofa Íslands,true
 Grímsstaðir,Manned synoptic station,495,4073,grst,North East,-16.1208,65.6423,384.0,1907,Veðurstofa Íslands,false
 Egilsstaðaflugvöllur,Synoptic station based on metar data and automated observations,571,4089,egflu,Eastern coastal areas,-14.4025,65.283,23.0,2001,Veðurstofa Íslands,true
 Dalatangi,Manned synoptic station,620,4097,dt,East fjords,-13.5759,65.2682,9.0,1938,Veðurstofa Íslands,false
 Vatnsskarðshólar,Manned synoptic station,802,4058,vtns,South,-19.183,63.4236,20.0,1978,Veðurstofa Íslands,true
-Keflavíkurflugvöllur,Manned synoptic station,990,4018,kvk,Faxaflói,-22.5876,63.9747,47.0,1952,Veðurstofa Íslands,true
+Keflavíkurflugvöllur,Manned synoptic station,990,4018,kvk,Faxaflói,-22.5953,63.9802,51.0,1952,Veðurstofa Íslands,true
 Keflavíkurflugvöllur,Automated observational station,1350,4118,kefla,Faxaflói,-22.6005,63.9829,50.900001525878906,2008,Veðurstofa Íslands,false
 Grindavík,Automated observational station,1361,4120,grvik,South,-22.417,63.8438,9.300000190734863,2008,Veðurstofa Íslands,true
 Eyrarbakki,Automated observational station,1395,4038,eyrar,South,-21.1602,63.8692,3.0,2005,Veðurstofa Íslands,true
@@ -141,7 +141,7 @@ Seley,Automated observational station,5993,4198,seley,East fjords,-13.5192,64.97
 Surtsey,Automated observational station,6012,4102,surte,South,-20.5995,63.2993,36.0,2009,Veðurstofa Íslands,false
 Vestmannaeyjabær,Automated observational station,6015,4146,vestb,South,-20.2758,63.4359,40.400001525878906,2002,Veðurstofa Íslands,true
 Stórhöfði,Automated observational station,6017,4048,storh,South,-20.2882,63.3996,118.0,1997,Veðurstofa Íslands,true
-Vatnsskarðshólar,Automated observational station,6045,4164,vskho,South,-19.183,63.4236,20.0,2003,Veðurstofa Íslands,false
+Vatnsskarðshólar,Automated observational station,6045,4164,vskho,South,-19.1837,63.424,10.0,2003,Veðurstofa Íslands,false
 Önundarhorn,Automated observational station,6134,4938,onund,South,-19.6357,63.5242,12.0,2010,Veðurstofa Íslands,false
 Skarðsfjöruviti,Automated observational station,6176,4170,skafj,South East,-17.9785,63.5179,6.0,1994,Vegagerðin,true
 Þykkvibær,Automated observational station,6208,4144,opart,South,-20.6182,63.7477,10.0,1996,Veðurstofa Íslands,true
