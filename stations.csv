@@ -81,7 +81,7 @@ Torfur,Automated observational station,3371,4061,torfr,North East,-18.1616,65.50
 Reykir í Fnjóskadal,Automated observational station,3380,4867,reykf,North East,-17.7667,65.5851,211.39999389648438,2000,Veðurstofa Íslands,true
 Sauðárkrókur flugvöllur,Automated observational station,3433,4953,skrok,North West,-19.5737,65.7259,0.5,2007,Veðurstofa Íslands,true
 Möðruvellir,Automated observational station,3463,4167,modru,North East,-18.2513,65.7707,15.0,1996,Veðurstofa Íslands,true
-Akureyri - Krossanesbraut,Automated observational station,3471,4137,akurk,North East,-18.1113,65.6961,31.0,2005,Veðurstofa Íslands,true
+Akureyri - Krossanesbraut,Automated observational station,3471,4137,akurk,North East,-18.1113,65.6961,30.0,2005,Veðurstofa Íslands,true
 Vaðlaheiði,Automated observational station,3474,4163,vadla,North East,-18.0021,65.7483,580.0,1999,Veðurstofa Íslands - Ofanflóð,false
 Végeirsstaðir í Fnjóskadal,Automated observational station,3477,4141,vegei,North East,-17.8857,65.817,130.3000030517578,2001,Veðurstofa Íslands,true
 Björg í Kinn,Automated observational station,3585,-99,utkin,North East,-17.5919,65.9454,4.0,2022,Veðurstofa Íslands - Ofanflóð,true
@@ -210,7 +210,7 @@ Kleifaheiði,Automated observational station,32224,4803,klehe,Breiðafjörður,-
 Flatey á Breiðafirði,Automated observational station,32250,-99,flatb,Breiðafjörður,-22.9286,65.3719,6.0,2023,Vegagerðin,true
 Hálfdán,Automated observational station,32322,4805,halfd,Breiðafjörður,-23.7106,65.6444,525.0,1995,Vegagerðin,true
 Klettsháls,Automated observational station,32355,4823,klett,Breiðafjörður,-22.6088,65.655,330.0,1999,Vegagerðin,true
-Hjallaháls,Automated observational station,32365,4907,hjall,Breiðafjörður,-22.2461,65.564,305.0,2012,Vegagerðin,true
+Hallsteinsnes,Automated observational station,32363,-99,hastn,Breiðafjörður,-22.3345,65.5292,6.0,2025,Vegagerðin,false
 Gillastaðamelar,Automated observational station,32372,-99,gilla,Breiðafjörður,-22.0234,65.5277,72.0,2009,Vegagerðin,true
 Þröskuldar,Automated observational station,32377,4916,thros,Breiðafjörður,-21.833,65.5524,370.0,2009,Vegagerðin,true
 Ennisháls,Automated observational station,32390,4833,ennis,North West,-21.329,65.5724,260.0,1998,Vegagerðin,true
