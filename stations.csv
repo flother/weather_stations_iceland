@@ -177,6 +177,7 @@ Miklidalur,Automated observational station,31122,4801,mikli,Breiðafjörður,-23
 Gíghæð,Automated observational station,31361,-99,gigha,Faxaflói,-22.4218,63.9032,63.0,2024,Vegagerðin,true
 Reykjanesbraut,Automated observational station,31363,4822,rbrau,Faxaflói,-22.2296,64.0027,25.0,1995,Vegagerðin,true
 Festarfjall,Automated observational station,31365,4911,festf,South,-22.3436,63.8595,135.0,2012,Vegagerðin,true
+Kleifarvatn,Automated observational station,31372,-99,kleva,South,-22.0158,63.919,152.0,2025,Vegagerðin,false
 Sveifluháls,Automated observational station,31374,-99,sveif,South,-21.9457,63.9664,179.5,2024,Vegagerðin,false
 Selvogur,Automated observational station,31380,4986,selvg,South,-21.6959,63.8456,20.0,2012,Vegagerðin,true
 Þrengsli,Automated observational station,31387,4858,treng,South,-21.4633,63.9876,260.0,1997,Vegagerðin,true
@@ -207,6 +208,7 @@ Laxárdalsheiði,Automated observational station,32190,4851,laxhe,Breiðafjörð
 Kleifaheiði,Automated observational station,32224,4803,klehe,Breiðafjörður,-23.7211,65.5172,400.0,1996,Vegagerðin,true
 Flatey á Breiðafirði,Automated observational station,32250,-99,flatb,Breiðafjörður,-22.9286,65.3719,6.0,2023,Vegagerðin,true
 Hálfdán,Automated observational station,32322,4805,halfd,Breiðafjörður,-23.7106,65.6444,525.0,1995,Vegagerðin,true
+Hrafnanes,Automated observational station,32336,-99,hrans,Breiðafjörður,-23.3172,65.4918,30.0,2025,Vegagerðin,false
 Klettsháls,Automated observational station,32355,4823,klett,Breiðafjörður,-22.6088,65.655,330.0,1999,Vegagerðin,true
 Hallsteinsnes,Automated observational station,32363,-99,hastn,Breiðafjörður,-22.3345,65.5292,6.0,2025,Vegagerðin,false
 Gillastaðamelar,Automated observational station,32372,-99,gilla,Breiðafjörður,-22.0234,65.5277,72.0,2009,Vegagerðin,true
