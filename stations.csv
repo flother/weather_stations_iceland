@@ -210,7 +210,7 @@ Flatey á Breiðafirði,Automated observational station,32250,-99,flatb,Breiðaf
 Hálfdán,Automated observational station,32322,4805,halfd,Breiðafjörður,-23.7106,65.6444,525.0,1995,Vegagerðin,true
 Hrafnanes,Automated observational station,32336,-99,hrans,Breiðafjörður,-23.3172,65.4918,30.0,2025,Vegagerðin,false
 Klettsháls,Automated observational station,32355,4823,klett,Breiðafjörður,-22.6088,65.655,330.0,1999,Vegagerðin,true
-Hallsteinsnes,Automated observational station,32363,-99,hastn,Breiðafjörður,-22.3345,65.5292,6.0,2025,Vegagerðin,false
+Hallsteinsnes,Automated observational station,32363,-99,hastn,Breiðafjörður,-22.3345,65.5292,6.0,2024,Vegagerðin,false
 Gillastaðamelar,Automated observational station,32372,-99,gilla,Breiðafjörður,-22.0234,65.5277,72.0,2009,Vegagerðin,true
 Þröskuldar,Automated observational station,32377,4916,thros,Breiðafjörður,-21.833,65.5524,370.0,2009,Vegagerðin,true
 Ennisháls,Automated observational station,32390,4833,ennis,North West,-21.329,65.5724,260.0,1998,Vegagerðin,true
@@ -246,7 +246,7 @@ Biskupsháls,Automated observational station,34326,4975,biskh,North East,-16.011
 Vopnafjarðarheiði,Automated observational station,34348,4879,vopfh,Eastern coastal areas,-15.3158,65.5947,440.0,2012,Vegagerðin,true
 Vatnsskarð eystra,Automated observational station,34382,4895,vtney,Eastern coastal areas,-13.9897,65.5623,430.0,1999,Vegagerðin,true
 Mývatnsöræfi,Automated observational station,34413,4873,myvor,North East,-16.5006,65.6576,390.0,1998,Vegagerðin,true
-Dettifoss,Automated observational station,34415,-99,dfoss,North East,-16.4431,65.8149,373.0,2023,Vegagerðin,true
+Dettifoss,Automated observational station,34415,-99,dfoss,North East,-16.4431,65.8149,373.0,2022,Vegagerðin,true
 Hauksstaðir,Automated observational station,34450,4993,haust,Eastern coastal areas,-15.1652,65.6571,212.0,2012,Vegagerðin,true
 Sandvíkurheiði,Automated observational station,34559,4883,sanhe,Eastern coastal areas,-14.8253,65.8914,275.0,1997,Vegagerðin,true
 Tjörnes - Gerðibrekka,Automated observational station,34700,4837,tjnes,North East,-16.9752,66.1487,93.0,2004,Vegagerðin,true
