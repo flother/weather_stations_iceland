@@ -3,7 +3,7 @@ Reykjavík,Manned synoptic station,1,4030,rvk,Faxaflói,-21.9079,64.1288,60.2000
 Stykkishólmur,Manned synoptic station,178,4013,sth,Breiðafjörður,-22.7339,65.074,13.180000305175781,1845,Veðurstofa Íslands,true
 Litla-Ávík,Manned synoptic station,293,4031,ltav,North West,-21.4247,66.0211,8.100000381469727,1995,Veðurstofa Íslands,true
 Sauðanesviti,Manned synoptic station,400,4059,sdnv,North West,-18.9534,66.1852,30.0,1990,Veðurstofa Íslands,true
-Grímsstaðir,Manned synoptic station,495,4073,grst,North East,-16.1208,65.6423,384.0,1907,Veðurstofa Íslands,true
+Grímsstaðir,Manned synoptic station,495,4073,grst,North East,-16.1208,65.6423,384.0,1907,Veðurstofa Íslands,false
 Egilsstaðaflugvöllur,Synoptic station based on metar data and automated observations,571,4089,egflu,Eastern coastal areas,-14.4025,65.283,23.0,2001,Veðurstofa Íslands,true
 Dalatangi,Manned synoptic station,620,4097,dt,East fjords,-13.5759,65.2682,9.0,1938,Veðurstofa Íslands,true
 Vatnsskarðshólar,Manned synoptic station,802,4058,vtns,South,-19.183,63.4236,20.0,1978,Veðurstofa Íslands,true
