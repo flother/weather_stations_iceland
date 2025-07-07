@@ -144,7 +144,7 @@ Vatnsskarðshólar,Automated observational station,6045,4164,vskho,South,-19.183
 Skarðsfjöruviti,Automated observational station,6176,4170,skafj,South East,-17.9785,63.5179,6.0,1994,Vegagerðin,true
 Þykkvibær,Automated observational station,6208,4144,opart,South,-20.6182,63.7477,10.0,1996,Veðurstofa Íslands,true
 Sámsstaðir,Automated observational station,6222,4152,samst,South,-20.1091,63.7354,90.0,2000,Veðurstofa Íslands,true
-Básar á Goðalandi,Automated observational station,6237,4954,basar,South,-19.4814,63.6791,239.0,2008,Veðurstofa Íslands,true
+Básar á Goðalandi,Automated observational station,6237,4052,basar,South,-19.4814,63.6791,239.0,2008,Veðurstofa Íslands,true
 Kirkjubæjarklaustur Stjórnarsandur,Automated observational station,6272,4064,klaus,South East,-18.0119,63.793,22.0,2004,Veðurstofa Íslands,true
 Selfoss,Automated observational station,6300,-99,sfoss,South,-20.9707,63.9355,20.0,2019,Veðurstofa Íslands,true
 Kálfhóll,Automated observational station,6310,4804,kalfh,South,-20.5669,63.9628,52.0,2003,Veðurstofa Íslands,true
@@ -162,6 +162,7 @@ Jökulheimar,Automated observational station,6670,4166,jheim,Central,-18.2208,64
 Kerlingarfjöll - Ásgarðsfjall,Automated observational station,6745,-99,asgfj,Central,-19.2827,64.681,925.0,2017,Veðurstofa Íslands,false
 Setur,Automated observational station,6748,4158,setur,Central,-19.0186,64.6043,693.0,1997,Landsvirkjun,true
 Þúfuver,Automated observational station,6760,4160,tuver,Central,-18.5987,64.5819,620.0,1993,Landsvirkjun,true
+Hágöngur syðri,Automated observational station,6775,-99,hagsy,Central,-18.1897,64.536,789.0,2024,Landsvirkjun,false
 Húsafell,Automated observational station,6802,4150,husaf,Faxaflói,-20.869,64.699,132.8000030517578,1998,Veðurstofa Íslands,true
 Hveravellir,Automated observational station,6935,4056,hvell,Central,-19.5622,64.8668,641.0,1996,Veðurstofa Íslands,true
 Sandbúðir,Automated observational station,6975,4168,sandb,Central,-17.9889,64.9331,820.0,1993,Landsvirkjun,true
