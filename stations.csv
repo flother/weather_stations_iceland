@@ -42,9 +42,9 @@ Gufuskálar,Automated observational station,1919,4104,gufus,Breiðafjörður,-23
 Ólafsvík,Automated observational station,1924,4106,olvik,Breiðafjörður,-23.7162,64.8957,19.0,2000,Veðurstofa Íslands - Ofanflóð,true
 Bláfeldur,Automated observational station,1936,4110,blafe,Faxaflói,-23.3017,64.8393,13.100000381469727,2003,Veðurstofa Íslands,true
 Grundarfjörður,Automated observational station,1938,4108,grufj,Breiðafjörður,-23.2513,64.9213,5.699999809265137,2003,Veðurstofa Íslands,true
-Stykkishólmur,Automated observational station,2050,4122,stykk,Breiðafjörður,-22.7324,65.0717,12.399999618530273,2002,Veðurstofa Íslands,false
+Stykkishólmur,Automated observational station,2050,4013,stykk,Breiðafjörður,-22.7324,65.0717,12.399999618530273,2002,Veðurstofa Íslands,false
 Ásgarður,Automated observational station,2175,4133,asgar,Breiðafjörður,-21.7543,65.2297,47.900001525878906,2003,Veðurstofa Íslands,true
-Reykir í Hrútafirði,Automated observational station,2197,-99,rhrut,North West,-21.0978,65.2543,9.800000190734863,2003,Veðurstofa Íslands,true
+Reykir í Hrútafirði,Automated observational station,2197,4139,rhrut,North West,-21.0978,65.2543,9.800000190734863,2003,Veðurstofa Íslands,true
 Reykhólar,Automated observational station,2266,4129,rehol,Breiðafjörður,-22.2056,65.4377,6.400000095367432,2004,Veðurstofa Íslands - Ofanflóð,true
 Bjargtangar,Automated observational station,2304,4101,bjarg,Breiðafjörður,-24.5312,65.5029,35.0,1994,Vegagerðin,true
 Lambavatn,Automated observational station,2315,4809,lamba,Breiðafjörður,-24.0925,65.4924,4.0,2006,Veðurstofa Íslands,true
@@ -54,7 +54,7 @@ Bíldudalur,Automated observational station,2428,4125,bildu,West fjords,-23.6122
 Hólmavík,Automated observational station,2481,4935,holma,North West,-21.6813,65.6873,10.0,2007,Veðurstofa Íslands,true
 Hólar í Dýrafirði,Automated observational station,2530,4007,holar,West fjords,-23.5578,65.8686,16.0,2020,Veðurstofa Íslands,true
 Suðureyri,Automated observational station,2630,-99,seyri,West fjords,-23.5077,66.1251,2.0,2021,Veðurstofa Íslands - Ofanflóð,true
-Flateyri,Automated observational station,2631,-99,feyri,West fjords,-23.51,66.0498,3.0,1997,Veðurstofa Íslands - Ofanflóð,true
+Flateyri,Automated observational station,2631,4113,feyri,West fjords,-23.51,66.0498,3.0,1997,Veðurstofa Íslands - Ofanflóð,true
 Þverfjall,Automated observational station,2636,4109,tverf,West fjords,-23.3074,66.0444,741.0,1990,Veðurstofa Íslands - Ofanflóð,true
 Seljalandsdalur,Automated observational station,2640,4107,selja,West fjords,-23.1987,66.076,550.0,1995,Veðurstofa Íslands - Ofanflóð,false
 Seljalandsdalur - skíðaskáli,Automated observational station,2641,4819,selsk,West fjords,-23.2142,66.0667,283.0,2005,Veðurstofa Íslands - Ofanflóð,true
@@ -148,11 +148,11 @@ Básar á Goðalandi,Automated observational station,6237,4052,basar,South,-19.4
 Kirkjubæjarklaustur Stjórnarsandur,Automated observational station,6272,4064,klaus,South East,-18.0119,63.793,22.0,2004,Veðurstofa Íslands,true
 Selfoss,Automated observational station,6300,-99,sfoss,South,-20.9707,63.9355,20.0,2019,Veðurstofa Íslands,true
 Kálfhóll,Automated observational station,6310,4804,kalfh,South,-20.5669,63.9628,52.0,2003,Veðurstofa Íslands,true
-Hella,Automated observational station,6315,4944,hella,South,-20.3654,63.8257,20.0,2006,Veðurstofa Íslands,true
+Hella,Automated observational station,6315,4044,hella,South,-20.3654,63.8257,20.0,2006,Veðurstofa Íslands,true
 Árnes,Automated observational station,6420,4820,arnes,South,-20.2521,64.0405,87.0,2003,Veðurstofa Íslands,true
 Mörk á Landi,Automated observational station,6424,4948,morla,South,-20.0189,64.0293,125.0,2008,Veðurstofa Íslands,true
 Búrfell,Automated observational station,6430,4154,bfell,South,-19.7449,64.1168,249.0,1993,Landsvirkjun,true
-Lónakvísl,Automated observational station,6459,-99,lonak,Central,-18.6141,64.0981,675.0,1999,Landsvirkjun,true
+Lónakvísl,Automated observational station,6459,4180,lonak,Central,-18.6141,64.0981,675.0,1999,Landsvirkjun,true
 Laufbali,Automated observational station,6472,4872,laufb,Central,-18.1196,64.0255,555.5999755859375,1993,Veðurstofa Íslands,true
 Skaftafell,Automated observational station,6499,4172,skaft,South East,-16.9721,64.0144,86.0,1995,Veðurstofa Íslands,true
 Hjarðarland,Automated observational station,6515,4942,hjard,South,-20.3331,64.2509,88.0,2004,Veðurstofa Íslands,true
@@ -168,7 +168,7 @@ Hveravellir,Automated observational station,6935,4056,hvell,Central,-19.5622,64.
 Sandbúðir,Automated observational station,6975,4168,sandb,Central,-17.989,64.9331,820.0,1993,Landsvirkjun,true
 Fagradals-Hagafell,Automated observational station,7001,-99,faer1,Faxaflói,-22.2496,63.9207,270.0,2023,Veðurstofa Íslands,true
 Vaðlaheiði II,Automated observational station,7472,-99,vadlv,North East,-18.0021,65.7483,580.0,2022,Veðurstofa Íslands,false
-Þverfjall II,Automated observational station,7636,-99,tverv,West fjords,-23.3076,66.0448,742.7000122070312,2021,Veðurstofa Íslands,false
+Þverfjall II,Automated observational station,7636,4109,tverv,West fjords,-23.3076,66.0448,742.7000122070312,2021,Veðurstofa Íslands,false
 Ólafsfjörður - Tindaöxl,Automated observational station,7659,4955,olfti,North East,-18.6309,66.063,450.0,2006,Veðurstofa Íslands - Ofanflóð,false
 Bolungarvík - Traðargil,Automated observational station,7736,4927,boltr,West fjords,-23.2681,66.1684,500.0,2006,Veðurstofa Íslands - Ofanflóð,false
 Siglufjörður Hafnarfjall,Automated observational station,7753,4957,sifhf,North West,-18.9352,66.1535,550.0,2006,Veðurstofa Íslands - Ofanflóð,false
