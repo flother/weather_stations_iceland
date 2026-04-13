@@ -92,7 +92,7 @@ Staðarhóll,Automated observational station,3591,4069,sholl,North East,-17.3446
 Ólafsfjörður,Automated observational station,3658,4155,olfjo,North East,-18.6656,66.0739,5.0,1997,Veðurstofa Íslands - Ofanflóð,true
 Húsavík,Automated observational station,3696,4171,husvk,North East,-17.3281,66.0418,28.200000762939453,2002,Veðurstofa Íslands,true
 Skagatá,Automated observational station,3720,4151,skagt,North West,-20.0989,66.1192,9.0,1996,Vegagerðin,true
-Sauðanesviti,Automated observational station,3751,-99,saudv,North West,-18.9534,66.1845,35.0,2020,Veðurstofa Íslands,false
+Sauðanesviti,Automated observational station,3751,-99,saudv,North West,-18.9534,66.1845,35.0,2020,Veðurstofa Íslands,true
 Siglufjörður,Automated observational station,3752,4157,sifjo,North West,-18.919,66.1349,6.0,1995,Veðurstofa Íslands - Ofanflóð,true
 Flatey á Skjálfanda,Automated observational station,3779,4965,flats,North East,-17.8408,66.1631,22.0,2005,Vegagerðin,true
 Mánárbakki,Automated observational station,3797,4071,manar,North East,-17.1027,66.1994,17.0,2005,Veðurstofa Íslands,true
