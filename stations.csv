@@ -25,7 +25,7 @@ Korpa,Automated observational station,1479,4132,korpa,Faxaflói,-21.7511,64.1505
 Geldinganes,Automated observational station,1480,4880,geldn,Faxaflói,-21.8038,64.1678,35.0,2004,Veðurstofa Íslands,true
 Hólmsheiði,Automated observational station,1481,4920,holms,Faxaflói,-21.6864,64.1085,130.0,2006,Veðurstofa Íslands,true
 Reykjavík Víðidalur,Automated observational station,1482,-99,vidal,Faxaflói,-21.7971,64.1035,73.0999984741211,2018,Veðurstofa Íslands,true
-Bláfjöll,Automated observational station,1486,4138,blafj,Faxaflói,-21.6661,63.969,530.0,1997,Veðurstofa Íslands,true
+Bláfjöll,Automated observational station,1486,4138,blafj,Faxaflói,-21.6661,63.969,530.0,1997,Veðurstofa Íslands,false
 Bláfjallaskáli,Automated observational station,1487,4852,blafs,Faxaflói,-21.6497,63.9831,530.0,2001,Veðurstofa Íslands,false
 Hellisskarð,Automated observational station,1490,4862,hells,Faxaflói,-21.3665,64.0333,380.0,2001,Veðurstofa Íslands,true
 Ölkelduháls,Automated observational station,1493,4864,olkel,Faxaflói,-21.2532,64.0553,360.0,2001,Veðurstofa Íslands,true
@@ -257,6 +257,7 @@ Hálsar,Automated observational station,34733,4875,halsr,North East,-15.8161,66.
 Borgarhöfn,Automated observational station,35116,-99,borgh,South East,-15.8145,64.1848,20.0,2019,Vegagerðin,true
 Öræfi,Automated observational station,35305,4878,orafi,South East,-16.7959,63.9387,75.0,1995,Vegagerðin,true
 Kvísker Vegagerðarstöð,Automated observational station,35315,4886,kvisk,South East,-16.4244,63.9596,30.0,2002,Vegagerðin,true
+Skógey,Automated observational station,35545,-99,skoey,South East,-15.3239,64.2938,1.7000000476837158,2026,Vegagerðin,false
 Hvalnes,Automated observational station,35666,4892,hvaln,East fjords,-14.5393,64.4074,20.0,2000,Vegagerðin,true
 Hamarsfjörður,Automated observational station,35769,4992,hamaf,East fjords,-14.4527,64.6558,19.0,2010,Vegagerðin,true
 Streiti,Automated observational station,35880,4994,strei,East fjords,-14.0363,64.7199,10.0,2008,Vegagerðin,true
