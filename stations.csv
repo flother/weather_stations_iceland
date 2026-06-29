@@ -25,7 +25,7 @@ Korpa,Automated observational station,1479,4132,korpa,Faxaflói,-21.7511,64.1505
 Geldinganes,Automated observational station,1480,4880,geldn,Faxaflói,-21.8038,64.1678,35.0,2004,Veðurstofa Íslands,true
 Hólmsheiði,Automated observational station,1481,4920,holms,Faxaflói,-21.6864,64.1085,130.0,2006,Veðurstofa Íslands,true
 Reykjavík Víðidalur,Automated observational station,1482,-99,vidal,Faxaflói,-21.7971,64.1035,73.0999984741211,2018,Veðurstofa Íslands,true
-Bláfjöll,Automated observational station,1486,4138,blafj,Faxaflói,-21.6661,63.969,530.0,1997,Veðurstofa Íslands,false
+Bláfjöll,Automated observational station,1486,4138,blafj,Faxaflói,-21.6661,63.969,530.0,1997,Veðurstofa Íslands,true
 Bláfjallaskáli,Automated observational station,1487,4852,blafs,Faxaflói,-21.6497,63.9831,530.0,2001,Veðurstofa Íslands,false
 Hellisskarð,Automated observational station,1490,4862,hells,Faxaflói,-21.3665,64.0333,380.0,2001,Veðurstofa Íslands,true
 Ölkelduháls,Automated observational station,1493,4864,olkel,Faxaflói,-21.2532,64.0553,360.0,2001,Veðurstofa Íslands,true
@@ -149,7 +149,7 @@ Básar á Goðalandi,Automated observational station,6237,4052,basar,South,-19.4
 Kirkjubæjarklaustur Stjórnarsandur,Automated observational station,6272,4064,klaus,South East,-18.0119,63.793,22.0,2004,Veðurstofa Íslands,true
 Selfoss,Automated observational station,6300,-99,sfoss,South,-20.9707,63.9355,20.0,2019,Veðurstofa Íslands,true
 Kálfhóll,Automated observational station,6310,4804,kalfh,South,-20.5669,63.9628,52.0,2003,Veðurstofa Íslands,true
-Hella,Automated observational station,6315,4044,hella,South,-20.3654,63.8257,20.0,2006,Veðurstofa Íslands,true
+Hella,Automated observational station,6315,4044,hella,South,-20.3654,63.8257,20.0,2006,Vegagerðin,true
 Árnes,Automated observational station,6420,4820,arnes,South,-20.2521,64.0405,87.0,2003,Veðurstofa Íslands,true
 Mörk á Landi,Automated observational station,6424,4948,morla,South,-20.0189,64.0293,125.0,2008,Veðurstofa Íslands,true
 Búrfell,Automated observational station,6430,4154,bfell,South,-19.7449,64.1168,249.0,1993,Landsvirkjun,true
