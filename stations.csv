@@ -43,7 +43,7 @@ Gufuskálar,Automated observational station,1919,4104,gufus,Breiðafjörður,-23
 Ólafsvík,Automated observational station,1924,4106,olvik,Breiðafjörður,-23.7162,64.8957,19.0,2000,Veðurstofa Íslands - Ofanflóð,true
 Bláfeldur,Automated observational station,1936,4110,blafe,Faxaflói,-23.3017,64.8393,13.100000381469727,2003,Veðurstofa Íslands,true
 Grundarfjörður,Automated observational station,1938,4108,grufj,Breiðafjörður,-23.2513,64.9213,5.699999809265137,2003,Veðurstofa Íslands,true
-Stykkishólmur,Automated observational station,2050,4013,stykk,Breiðafjörður,-22.7324,65.0717,12.399999618530273,2002,Veðurstofa Íslands,false
+Stykkishólmur,Automated observational station,2050,-99,stykk,Breiðafjörður,-22.7324,65.0717,12.399999618530273,2002,Veðurstofa Íslands,false
 Ásgarður,Automated observational station,2175,4133,asgar,Breiðafjörður,-21.7543,65.2297,47.900001525878906,2003,Veðurstofa Íslands,true
 Reykir í Hrútafirði,Automated observational station,2197,4139,rhrut,North West,-21.0978,65.2543,9.800000190734863,2003,Veðurstofa Íslands,true
 Reykhólar,Automated observational station,2266,4129,rehol,Breiðafjörður,-22.2056,65.4377,6.400000095367432,2004,Veðurstofa Íslands - Ofanflóð,true
